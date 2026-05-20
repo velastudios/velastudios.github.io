@@ -14,7 +14,7 @@ A screen protection utility for Android. Keep your game running, your screen pro
 
 ## Privacy Policy
 
-[Gamelock Overlay Privacy Policy](privacy)
+[Gamelock Overlay Privacy Policy](Privacy)
 
 ---
 
